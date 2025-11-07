@@ -1,2 +1,2 @@
 # Project_Sistem_Informasi_Manufaktur
-Project Forecast SimF
+Project Forecast SimF Forecast
