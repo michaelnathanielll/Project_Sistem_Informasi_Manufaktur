@@ -1,0 +1,4 @@
+Holt-Winters Best Model
+Seasonal: mul
+RMSE: 139.88831700205387
+MAPE: 150.75965555236883
